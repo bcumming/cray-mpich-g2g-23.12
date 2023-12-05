@@ -67,7 +67,8 @@ libfabric-devel-1.15.2.0-SSHOT2.0.1_20230104144000_a898af7f4.x86_64
 [3] https://eth-cscs.github.io/stackinator/ 
 
 [4] cray-mpich versions
-
+| package | version | notes |
+| -- | -- | -- |
 | cray-pals  | 1.2.12 |                     |
 | cray-pmi   | 6.1.11 |                     |
 | cray-gtl   | 8.1.26 |                     |
